@@ -4,9 +4,8 @@
 // but you're not, so you'll write it from scratch:
 var parseJSON = function(json) {
 
-  // Cheating //
-  // return eval(' new Object('+json+')')
+  // The 'easier than the hard way' way  //
+  // return eval(' new Object(' + json + ')')
 
-  
   
 };
